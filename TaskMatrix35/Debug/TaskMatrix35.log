@@ -1,2 +1,4 @@
 ﻿  Source.cpp
+C:\Users\Юра Кузин\source\repos\TaskMatrix35\TaskMatrix35\Source.cpp(12,11): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\Юра Кузин\source\repos\TaskMatrix35\TaskMatrix35\Source.cpp(15,16): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
   TaskMatrix35.vcxproj -> C:\Users\Юра Кузин\source\repos\TaskMatrix35\Debug\TaskMatrix35.exe
